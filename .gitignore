@@ -1,1 +1,7 @@
 archive
+output*
+pottery
+.vscode
+
+# Python ENV
+descon
